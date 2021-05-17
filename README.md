@@ -1,1 +1,1 @@
-# AWSCloudFormation Sample s3
+# CloudFront_S3.template
